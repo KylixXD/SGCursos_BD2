@@ -1,0 +1,10 @@
+{
+    "development": {
+      "username": "postgres",
+      "password": "Pandamp5",
+      "database": "sgc",
+      "host": "localhost",
+      "dialect": "postgres"
+  }
+}
+  
